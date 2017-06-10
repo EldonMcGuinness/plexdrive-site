@@ -31,4 +31,32 @@ layout: home
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<section class="col-12 body">
+			<h1 class="font-comfortaa mb-3 text-center text-md-left mt-4 mt-md-3">Why should I use Plexdrive?</h1>
+			<div class="container col-md-10 offset-md-1">
+				<h2 class="font-comfortaa"> - API Limits</h2>
+				<p class="mb-4">
+					Cloud  storage providers often have limits on how frequently a
+					user can make calls to their services. This can cause issues
+					when you have media applications, such as Plex or Kodi,
+					which can go through thousands of calls very quickly! With
+					Plexdrive your computer maintains cached listing of your cloud
+					storage files so all these calls can be answered without wasting
+					precious API calls.
+				</p>
+			</div>
+			<div class="container col-md-10 offset-md-1">
+				<h2 class="font-comfortaa"> - Local Cache</h2>
+				<p>
+					Consumer grade internet connections are normally only a fraction
+					of the speeed of your local network and an even smaller fraction
+					of the speed of a harddisk. With Plexdrive you can keep a local
+					cache of files that are accessed for later use, resulting in less
+					bandwidth usage and an increase in responce time for repeatedly
+					accessed data.
+				</p>
+			</div>
+		</section>
+	</div>
 </div>
